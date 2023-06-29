@@ -1,4 +1,4 @@
-# Data-Analysis-Through-PowerBI
+# Data-Analysis-Using-PowerBI
 
 This work is done under the Course "Microsoft Power BI desktop For Business Intelligence (2023)" done from Udemy.
 In this course i have devloped an interacting Dashboard which comprise of data of Adventure Work provided in the course.
